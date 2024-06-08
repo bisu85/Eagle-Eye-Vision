@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'At Eagle Eye Vision, our stories metamorphize in beautiful forms – <br />creative games, productive applications and innovative solutions!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -10,14 +10,14 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Gamification</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Tasky Treaty is a delightful and whimsical project that combines work productivity with a dash of culinary fun. Tasky treaty promotes healthy competition. It is integrated with the production tools like Jira and confluence so as to keep the  work momentum going and reward accordingly. Nothing brings people closer anything more than food. Teamwork and completions of tasks are further encouraged through Tasky Treaty. Reward system gratifies the player's progression across the work boards and in the game too. Move more tasks to 'done' in Jira board and you get score multipliers, along with more challenges to earn more. Furthermore, the kitchen equipments’ level-up, game setups and environments level up too. As you move more tasks to "done" on your Jira board, you unlock new challenges in the game. Score multipliers, better kitchen equipment, game setups, and even different environments await you. It's like levelling up in a cooking simulation game, but with a work twist! May Tasky Treaty continue to spice up work routines and bring joy to its players. Eet smakelijk! Bon appétit! 🍽</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Greetings AI</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>GreetAI -Imagine your grandmother sending you an e-card on your special day, and that too with well wishes and signatures of the entire neighbourhood. She can do it with GreetAI.In this digital area, sending handmade and paper cards for any occasion or celebration will soon be outdated and will eventually be replaced by e-cards. For birthdays, new house, new job, promotion, wedding, engagement, baby and many more events utilize the functionality of GreetAI generates Greeting Cards electronically and complements it with e-signatures from all the team members, family members or whoever participates.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,9 +60,42 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>IAmThere </h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Pedro is a newbie in our company, being partially clueless as to where to begin! Perry as a student is struggling to find resources to understand her curriculum, whereas David, a lecturer for Perry is finding hard to find time to make tutorials for Perry. What he has are retrospectives, past projects, busy colleagues and his own project in hand. And they all wonder - Why Am I there? Am I even there? Wouldn't it better if they could have benchmarked tasks, they could begin with to accomplish their projects.				
+				What it does - Introducing IAmThere, which enables users to Collect codes from Bitbucket AI enabled Doc generation Tutorial Generation Assignment and Quiz generation and all above in their preferred speaking languages IAmThere also focuses on : ⛰️ personalized learning journey Summarized tasks for the developer Code to tutorials format Focus on the role & tech you want to develop yourself in and get recommendations for learning modules, all in our app.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>AI-Approved </h3>
+				</header>
+				<p>Ken is a new developer in his dream company. Although always excited and on his toes, he manages his work on time but faces these dilemmas from time and again Is the code functional? Is it executable? Did I push it to the right environment Did I commit the right dependencies.Do I get approval? What happens if I push the bad code to production? Stake of reputation?? Introducing AI Approved…What it does - Checks the code and tells if it is approval ready. Performs Symantec checks, syntax checks, code formatting checks, checking of naming conventions as well.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Stealth Smart </h3>
+				</header>
+				<p>A cutting-edge platform offering affordable, accessible, and rapid testing for multiple disease-specific biomarkers. With our technology, we enable single-sample, multiple analysis capabilities, providing quantitative results in a digital format. This means early detection and real-time monitoring of conditions like never before, empowering both patients and healthcare providers with actionable insights.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
