@@ -34,7 +34,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 100%;
+			width: 40%;
 
 			.image {
 				display: none;
@@ -155,7 +155,7 @@
 
 		@include breakpoint(medium) {
 			article {
-				width: 50% !important;
+				//width: 50% !important;
 			}
 		}
 
