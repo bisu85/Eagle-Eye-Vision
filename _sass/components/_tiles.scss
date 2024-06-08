@@ -34,7 +34,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 40%;
+			width: 100%;
 
 			.image {
 				display: none;
@@ -104,7 +104,7 @@
 
 			&:nth-child(4n - 1),
 			&:nth-child(4n - 2) {
-				flex: 0 auto;
+				flex: 1 auto;
 			}
 
 			&:nth-child(6n - 5) {
