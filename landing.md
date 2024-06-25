@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'At Eagle Eye Vision, our stories metamorphize in beautiful forms – <br />creative games, productive applications and innovative solutions!'
-image: assets/images/pic07.jpg
+image: assets/images/projects_bg.jpg
 nav-menu: true
 ---
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/Gamification.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -31,6 +31,9 @@ nav-menu: true
 					<h3>Gamification</h3>
 				</header>
 				<p>Tasky Treaty is a delightful and whimsical project that combines work productivity with a dash of culinary fun. Tasky treaty promotes healthy competition. It is integrated with the production tools like Jira and confluence so as to keep the  work momentum going and reward accordingly. Nothing brings people closer anything more than food. Teamwork and completions of tasks are further encouraged through Tasky Treaty. Reward system gratifies the player's progression across the work boards and in the game too. Move more tasks to 'done' in Jira board and you get score multipliers, along with more challenges to earn more. Furthermore, the kitchen equipments’ level-up, game setups and environments level up too. As you move more tasks to "done" on your Jira board, you unlock new challenges in the game. Score multipliers, better kitchen equipment, game setups, and even different environments await you. It's like levelling up in a cooking simulation game, but with a work twist! May Tasky Treaty continue to spice up work routines and bring joy to its players. Eet smakelijk! Bon appétit! 🍽</p>
+				<p>Learning and Development: Foster a culture of continuous improvement through personalized AI-powered learning modules, tailored to individual roles and technologies, ensuring employees stay updated and skilled.</p>
+				<p>Onboarding: Streamline the onboarding process with AI tools like IAmThere, providing new hires with benchmarked tasks, personalized learning journeys, and comprehensive resources to quickly adapt and excel in their roles.</p>
+				<p>Employee Trainings: Enhance employee training programs with AI Approved, an AI-driven tool that ensures code quality and readiness, offering semantic, syntax, and formatting checks, thereby boosting productivity and confidence in deploying code.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -39,7 +42,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/greetAI.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/IAmThere.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -72,7 +75,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/AIApproved.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -88,7 +91,23 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/digital-twin.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Digital twins </h3>
+				</header>
+				<p>Digital twins, virtual replicas of physical assets, processes, or systems, are revolutionizing logistics, supply chain, distribution, and warehousing. By mirroring real-world operations, digital twins enable real-time monitoring, predictive maintenance, and optimization of supply chain activities. In logistics, they offer unprecedented visibility into transportation networks, helping to predict delays and streamline routes. For supply chains, digital twins facilitate end-to-end tracking of goods, ensuring transparency and efficiency in inventory management. Distribution centers benefit from optimized layout and workflow simulations, reducing bottlenecks and improving throughput. In warehousing, digital twins enhance space utilization and automate routine tasks, leading to reduced operational costs and improved accuracy in order fulfillment. By leveraging advanced analytics and AI, digital twins provide actionable insights, driving efficiency, resilience, and agility across the entire supply chain ecosystem.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/StealthSmartLogo.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
