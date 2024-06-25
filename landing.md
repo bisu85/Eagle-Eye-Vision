@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/Gamification.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/greetAI.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -51,7 +51,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/IAmThere.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -65,7 +65,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/AIApproved.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -78,7 +78,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/digital-twin.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -91,7 +91,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/StealthSmartLogo.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -106,13 +106,13 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Vision & Mission</h2>
 		</header>
 		<p>Harness our multidisciplinary scalable technology to address global health challenges. Our vision is to revolutionize healthcare by integrating innovative technologies with healthcare diagnostics, fostering a world where every individual enjoys equal and early access to quality healthcare services, promoting well-being, and advancing sustainable development globally.</p>
 	</div>
-</section>
+</section> -->
 
 </div>
