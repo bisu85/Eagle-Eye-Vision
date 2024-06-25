@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'At Eagle Eye Vision, our stories metamorphize in beautiful forms – <br />creative games, productive applications and innovative solutions!'
-image: assets/images/projects_bg.jpg
+image: assets/images/projects_bg.jpeg
 nav-menu: true
 ---
 
